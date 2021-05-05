@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravikumargora
 - 👀 I’m interested in web and app development
-- 🌱 I’m currently developing ReactNative apps and adding them to my Git
+- 🌱 I’m currently developing ReactNative and web apps
 - 💞️ I’m looking to collaborate on web and app development
 - 📫 How to reach me ravieekumargora@gmail.com
 
